@@ -67,7 +67,6 @@ Invalid Matrices
 The parameter ``matrix`` must be a list of lists consisting of either ints or
 floats. If ``matrix`` is not a list, a TypeError is raised.
 
-
 ::
 
     >>> matrix = "not a list"
@@ -97,7 +96,7 @@ But an empty list of lists will succeed.
 
     >>> matrix = [[]]
     >>> print(matrix_divided(matrix, 3))
-   [[]]
+    [[]]
 
 An identical TypeError is raised if ``matrix`` is not specifically a list of
 lists.
