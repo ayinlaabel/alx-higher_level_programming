@@ -173,7 +173,7 @@ Not just any list - they *must* be lists of lists!
     Traceback (most recent call last):
     TypeError: m_a must be a list of lists
 
-nd not just any list of lists - they *must* be lists of lists containing
+And not just any list of lists - they *must* be lists of lists containing
 integers or floats!
 
 ::
