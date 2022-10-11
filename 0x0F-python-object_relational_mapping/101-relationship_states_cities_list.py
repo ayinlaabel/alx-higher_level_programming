@@ -3,7 +3,7 @@
 """
 import sys
 from relationship_state import Base, State
-rom relationship_city import City
+from relationship_city import City
 from sqlalchemy import (create_engine)
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import relationship
